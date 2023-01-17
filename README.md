@@ -1,11 +1,8 @@
-요즘 왓챠가 어렵다는 기사가 많이 나와서 <br/>
-혹시나 하는 마음에 예전 익무글을 찾아봤는데 막혀버렸네요. <br/>
+요즘 왓챠 기사가 많이 나와서 데이터 백업하려고 예전 익무글을 찾아봤는데 막혀버렸네요.<br/>
 https://extmovie.com/movietalk/37623288 
 
-그래서 직접 만들었습니다.
-
-저 같은 분들도 많으실 것 같아서 관련 방법 공유합니다. <br/>
-왓챠에서 정식 기능으로 지원해줬으면 좋겠네요!
+그래서 직접 만들었습니다. <br/>
+저와 같은 분들이 많으실 것 같아서 관련 방법 공유합니다.
 
 <h3>백업 방법</h3>
 1. 크롬에서 왓챠피디아 웹사이트에 로그인합니다. https://pedia.watcha.com <br/>
@@ -14,8 +11,11 @@ https://extmovie.com/movietalk/37623288
 4. 잠시 기다려주시면 내 기록이 파일로 다운로드됩니다. 
 <p></p>
 <img src="https://raw.githubusercontent.com/henryseong0215/watchapedia-export/main/img/export_001.png">
+<br/>
 <img src="https://raw.githubusercontent.com/henryseong0215/watchapedia-export/main/img/export_002.png">
+<br/>
 <img src="https://raw.githubusercontent.com/henryseong0215/watchapedia-export/main/img/export_003.png">
+<br/><br/>
 <img src="https://raw.githubusercontent.com/henryseong0215/watchapedia-export/main/img/export_004.png">
 
 <h3>Demo 영상</h3>
