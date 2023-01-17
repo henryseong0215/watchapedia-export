@@ -14,3 +14,4 @@
 
 ### Demo 영상
 https://www.loom.com/share/dc1babd208ae4aa89d7b95a5b1c78f24
+<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dc1babd208ae4aa89d7b95a5b1c78f24-with-play.gif">
