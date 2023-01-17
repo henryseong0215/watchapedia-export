@@ -11,7 +11,6 @@ https://extmovie.com/movietalk/37623288
 4. 잠시 기다려주시면 내 기록이 파일로 다운로드됩니다. 
 <p></p>
 <img src="https://raw.githubusercontent.com/henryseong0215/watchapedia-export/main/img/export_001.png">
-<br/>
 <img src="https://raw.githubusercontent.com/henryseong0215/watchapedia-export/main/img/export_002.png">
 <br/>
 <img src="https://raw.githubusercontent.com/henryseong0215/watchapedia-export/main/img/export_003.png">
