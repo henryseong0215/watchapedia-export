@@ -8,7 +8,7 @@ https://extmovie.com/movietalk/37623288
 1. 크롬에서 왓챠피디아 웹사이트에 로그인합니다. https://pedia.watcha.com <br/>
 2. 왓챠피디아 주소 창에 javascript:를 입력하고(:콜론 까지 입력) <br/>
 3. <a href="https://github.com/henryseong0215/watchapedia-export/blob/main/watchapedia_export.js" target="_blank">watchapedia_export.js</a> 파일을 열어서 스크립트를 복사하고 javascript: 바로 뒤에 붙여넣기 해주세요. <br/>
-4. 잠시 기다리면 내 기록이 파일로 다운로드됩니다. 
+4. 잠시만 기다리면 내 기록이 파일로 다운로드됩니다. 
 <p></p>
 <img src="https://raw.githubusercontent.com/henryseong0215/watchapedia-export/main/img/export_001.png">
 <img src="https://raw.githubusercontent.com/henryseong0215/watchapedia-export/main/img/export_002.png">
